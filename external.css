@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(images/image12.jpeg);
+}
+
+           main{
+               width: 300px;
+               height: 200px;
+               border: 1cm solid green;
+               border-radius: 50%;
+               background-color: black;
+           }
+           header{
+               width: 300px;
+               height: 300px;
+               border: 0.5cm solid purple;
+               border-radius: 50%;
+               background-color: #fff000;
+           }
+           footer{
+               width: 100px;
+               height: 300px;
+               border: 20px solid grey;
+               background-color: rgba(0,0,0,0.5);
+           }

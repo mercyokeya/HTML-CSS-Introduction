@@ -1,0 +1,13 @@
+body {
+    background-color: darkcyan;
+    background-image: url('images/image1.jpeg');
+}
+header button {
+    background-color: rgba(0,204,0,.5);
+}
+main {
+    background-color: yellow;
+}
+footer button {
+    background-color: #f00;
+}
